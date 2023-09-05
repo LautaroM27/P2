@@ -1,1 +1,2 @@
-# P2
+# Trabajo Practico 2
+Grupo: La Joseneta
